@@ -1,5 +1,5 @@
 # The official Elasticsearch Docker image
-FROM docker.elastic.co/elasticsearch/elasticsearch:7.16.1@sha256:1000eae211ce9e3fcd1850928eea4ee45a0a5173154df954f7b4c7a093b849f8
+FROM docker.elastic.co/elasticsearch/elasticsearch:8.5.3
 
 EXPOSE 9200 9300
 
